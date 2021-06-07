@@ -8,6 +8,23 @@
           "url": "/pages/dashboard/inicial"
         }
       ]
+    },
+    {
+      "title": "Desenvolvimento do manual",
+      "children": [
+        {
+          "page": "Configurações iniciais",
+          "url": "/pages/dev/setup"
+        },
+        {
+          "page": "Exemplo: Criando um novo Plano de Tratamento",
+          "url": "/pages/dev/planning"
+        },
+        {
+          "page": "Exemplo: Encontrar um Plano de Tratamento",
+          "url": "/pages/dev/search"
+        }
+      ]
     }
   ]
 }
