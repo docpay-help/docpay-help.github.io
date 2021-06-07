@@ -21,3 +21,8 @@ git push origin master
 ```
 
 A página estará disponível em: https://docpay-help.github.io
+
+## Dicas (windows)
+
+- Para screenshots use a ferramenta de captura: winKey + R -> SnippingTool -> enter
+- Para gravar use (portable version): https://www.screentogif.com/
