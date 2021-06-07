@@ -5,8 +5,6 @@ title: Download/Instalação Docker
 
 #### Download/instalação Docker
 
-<br />
-
 <p>Faça <a href="https://www.docker.com/get-started">download</a> selecionando o seu sistema operacional. Execute o instalador e sigas as instruções do mesmo.</p>
 
 <div class="text-center"> 
@@ -32,11 +30,11 @@ docker-compose up
 
 <br />
 
-#### Acesso local a documentação:
+#### Acesso local a documentação
 
 <p><a href="http://localhost:8080">Documentação (localhost:8000)</a></p>
 
-#### Ao concluir o seu trabalho faça "commit", como descrito abaixo, e a documentação estará disponível no ambiente de produção.
+#### Ao concluir o seu trabalho faça "commit", como descrito abaixo, e a documentação estará disponível no ambiente de produção
 
 ```
 git add .
@@ -46,11 +44,11 @@ git push origin master
 
 <br />
 
-#### Acesso a documentação em Produção:
+#### Acesso a documentação em Produção
 
 <p><a href="https://docpay-help.github.io/">Docpay Help</a></p>
 
-#### Dicas (windows):
+#### Dicas (windows)
 
 - Para screenshots use a ferramenta de captura: winKey + R -> SnippingTool -> enter
 - Para gravar use (portable version): https://www.screentogif.com/
