@@ -19,3 +19,5 @@ git add .
 git commit -m '[MOD]: alterações'
 git push origin master
 ```
+
+A página estará disponível em: https://docpay-help.github.io
