@@ -1,0 +1,133 @@
+<div style="font-size: 14px;">
+  <form role="search" class="search d-flex align-items-center">
+    <input type="search" class="form-control ds-input" id="search-input" placeholder="Pesquise..." autocomplete="off" spellcheck="false" />
+  </form>
+
+  <div class="sidebar-contents"></div>
+</div>
+
+<script type="text/javascript">
+    let allMenus = [],
+      currentPage = `{{ page.url }}`
+
+    {% for item in site.data.sitemap.menu %}
+      {% for entry in item.children %}
+        allMenus.push({
+            title: `{{ item["title"] }}`,
+            page: `{{ entry["page"] }}`,
+            url: `{{ entry["url"] }}`
+        })
+      {% endfor %}
+    {% endfor %}
+
+    let updateScroll = function(element) {
+      let parent = document.getElementsByClassName('sidebar-contents')
+
+      if (element && parent && parent[0]) {
+        let height = parent[0].offsetHeight
+        parent[0].scrollTop = parseInt(element.offsetTop - (height / 2))
+      }
+    }
+
+    let renderMenus = function(menuList, searchString = '') {
+      let mainDiv = document.getElementsByClassName('sidebar-contents')[0],
+        activeElement = null
+
+      if (menuList.length > 0) {
+        let mapMenu = []
+
+        for (let i = 0; i < menuList.length; i++) {
+          let menu = menuList[i]
+          if (!mapMenu[menu.title]) {
+            mapMenu[menu.title] = []
+          }
+          mapMenu[menu.title].push(menu)
+        }
+
+        for (let menu in mapMenu) {
+            let menuDiv = document.createElement('div')
+
+            let groupDiv = document.createElement('h6')
+            groupDiv.innerHTML = menu
+            menuDiv.appendChild(groupDiv)
+
+            let childrenUl = document.createElement('ul')
+            childrenUl.className = 'side-menu-group'
+
+            for (let item of mapMenu[menu]) {
+              let itemLi = document.createElement('li'),
+                itemAnchor = document.createElement('a')
+              itemAnchor.innerHTML = item.page
+              itemAnchor.href = item.url
+
+              if (currentPage === item.url || currentPage === (item.url + '/')) {
+                itemLi.className = 'active'
+                activeElement = itemLi
+              }
+              itemLi.appendChild(itemAnchor)
+              childrenUl.appendChild(itemLi)
+            }               
+            menuDiv.appendChild(childrenUl)
+            mainDiv.appendChild(menuDiv)
+        }
+      } else {
+        let noResultDiv = document.createElement('div')
+        noResultDiv.className = 'no-results'
+
+        let noResultPara = document.createElement('p')
+        noResultPara.innerHTML = 'Sem resultados para ' + '<b>' + searchString + '</b>'
+        noResultDiv.appendChild(noResultPara)
+
+        mainDiv.appendChild(noResultDiv)
+      }
+
+      updateScroll(activeElement)
+    }
+
+    let searchResult = allMenus
+    document.addEventListener('DOMContentLoaded', function(event) {
+      renderMenus(allMenus)
+    })
+
+    let findMatches = function(query, list) {
+      if (query === '') {
+        return list
+      }
+      let filter = new RegExp(query, 'i'),
+        result = []
+      for (var i = 0; i < list.length; i++) {
+        let row = list[i]
+        if (filter.test(row.page)) {
+          result.push(row)
+        }
+      }
+      return result
+    }
+
+    let searchInput = document.getElementById('search-input');
+
+    searchInput.addEventListener('click', function(event) {
+      searchInput.value = ''
+      let mainDiv = document.getElementsByClassName('sidebar-contents')[0]
+      while (mainDiv.firstChild) {
+        mainDiv.removeChild(mainDiv.firstChild)
+      }
+      renderMenus(allMenus)
+    })
+
+    document.addEventListener('keyup', function(event) {
+      let newMenuList = []
+      let searchString = searchInput.value.trim()
+      searchResult = findMatches(searchString, allMenus)
+
+      let mainDiv = document.getElementsByClassName('sidebar-contents')[0]
+      while (mainDiv.firstChild) {
+        mainDiv.removeChild(mainDiv.firstChild)
+      }
+
+      for (let item of searchResult) {
+        newMenuList.push(item)
+      }
+      renderMenus(newMenuList, searchString=searchInput.value)
+  })
+</script>

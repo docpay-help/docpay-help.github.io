@@ -1,0 +1,397 @@
+// This is the place to place Bootstrap-related CSS customizations.
+// As example you can start by importing the _bootswatch.scss file from one of the
+// theme provided by https://bootswatch.com .
+
+// Minty 4.3.1
+// Bootswatch
+
+// Variables ===================================================================
+
+$web-font-path: "https://fonts.googleapis.com/css?family=Montserrat" !default;
+@import url($web-font-path);
+
+// Navbar ======================================================================
+
+.navbar {
+  font-family: $headings-font-family;
+}
+
+.bg-dark {
+  background-color: $secondary !important;
+}
+
+.border-dark {
+  border-color: $secondary !important;
+}
+
+// Buttons =====================================================================
+
+.btn {
+  font-family: $headings-font-family;
+
+  &,
+  &:hover {
+    color: $white;
+  }
+
+  &-light,
+  &-light:hover {
+    color: $gray-700;
+  }
+
+  &-link,
+  &-link:hover {
+    color: $primary;
+  }
+
+  &-link.disabled:hover {
+    color: $gray-600;
+  }
+
+  &-outline-primary {
+    color: $primary;
+  }
+
+  &-outline-secondary {
+    color: $secondary;
+  }
+
+  &-outline-success {
+    color: $success;
+  }
+
+  &-outline-info {
+    color: $info;
+  }
+
+  &-outline-warning {
+    color: $warning;
+  }
+
+  &-outline-danger {
+    color: $danger;
+  }
+
+  &-outline-dark {
+    color: $dark;
+  }
+
+  &-outline-light {
+    color: $light;
+  }
+}
+
+// Typography ==================================================================
+
+// Tables ======================================================================
+
+.table {
+
+  &-primary,
+  &-secondary,
+  &-success,
+  &-info,
+  &-warning,
+  &-danger {
+    color: #fff;
+  }
+
+  &-primary {
+    &, > th, > td {
+      background-color: $primary;
+    }
+  }
+
+  &-secondary {
+    &, > th, > td {
+      background-color: $secondary;
+    }
+  }
+
+  &-light {
+    &, > th, > td {
+      background-color: $light;
+    }
+  }
+
+  &-dark {
+    &, > th, > td {
+      background-color: $dark;
+    }
+  }
+
+  &-success {
+    &, > th, > td {
+      background-color: $success;
+    }
+  }
+
+  &-info {
+    &, > th, > td {
+      background-color: $info;
+    }
+  }
+
+  &-danger {
+    &, > th, > td {
+      background-color: $danger;
+    }
+  }
+
+  &-warning {
+    &, > th, > td {
+      background-color: $warning;
+    }
+  }
+
+  &-active {
+    &, > th, > td {
+      background-color: $table-active-bg;
+    }
+  }
+
+  &-hover {
+
+    .table-primary:hover {
+      &, > th, > td {
+        background-color: darken($primary, 5%);
+      }
+    }
+
+    .table-secondary:hover {
+      &, > th, > td {
+        background-color: darken($secondary, 5%);
+      }
+    }
+
+    .table-light:hover {
+      &, > th, > td {
+        background-color: darken($light, 5%);
+      }
+    }
+
+    .table-dark:hover {
+      &, > th, > td {
+        background-color: darken($dark, 5%);
+      }
+    }
+
+    .table-success:hover {
+      &, > th, > td {
+        background-color: darken($success, 5%);
+      }
+    }
+
+    .table-info:hover {
+      &, > th, > td {
+        background-color: darken($info, 5%);
+      }
+    }
+
+    .table-danger:hover {
+      &, > th, > td {
+        background-color: darken($danger, 5%);
+      }
+    }
+
+    .table-warning:hover {
+      &, > th, > td {
+        background-color: darken($warning, 5%);
+      }
+    }
+
+    .table-active:hover {
+      &, > th, > td {
+        background-color: $table-active-bg;
+      }
+    }
+  }
+
+  .thead-dark th {
+    background-color: $primary;
+    border-color: $table-border-color;
+    font-family: $headings-font-family;
+  }
+}
+
+// Forms =======================================================================
+
+legend {
+  font-family: $headings-font-family;
+}
+
+// Navs ========================================================================
+
+.dropdown-menu {
+  font-family: $font-family-sans-serif;
+}
+
+.breadcrumb {
+  a {
+    color: $navbar-dark-color;
+  }
+
+  a:hover {
+    color: $white;
+    text-decoration: none;
+  }
+}
+
+// Indicators ==================================================================
+
+.badge {
+  color: $white;
+
+  &-light {
+    color: $gray-700;
+  }
+}
+
+// Progress bars ===============================================================
+
+// Containers ==================================================================
+
+.card,
+.list-group-item {
+  h1, h2, h3, h4, h5, h6 {
+    color: inherit;
+  }
+}
+
+// Custom ==================================================================
+html ::-webkit-scrollbar {
+  -webkit-appearance: none;
+  width: 10px;
+  height: 10px;
+}
+
+html ::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 0px;
+}
+
+html ::-webkit-scrollbar-thumb {
+  cursor: pointer;
+  border-radius: 5px;
+  background: rgba(0, 0, 0, 0.25);
+  -webkit-transition: color 0.2s ease;
+  transition: color 0.2s ease;
+}
+
+html ::-webkit-scrollbar-thumb:window-inactive {
+  background: rgba(0, 0, 0, 0.15);
+}
+
+html ::-webkit-scrollbar-thumb:hover {
+  background: rgba(128, 135, 139, 0.8);
+}
+
+.contents {
+  padding: 20px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: calc(100vh);
+}
+.sidebar {
+  position: sticky;
+  z-index: 1000;
+  height: calc(100vh);
+}
+.sidebar-contents {
+  height: calc(100vh - 66px);
+  overflow-y: scroll;
+  padding: 10px 0;
+}
+.side-menu-group {
+  list-style: none;
+  padding-left: 8px;
+}
+.side-menu-group li {
+  line-height: 28px;
+}
+.side-menu-group li.active {
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 30px;
+}
+.search {
+  padding: 10px 10px 10px 0;
+}
+.no-results {
+  font-size: 12px;
+  padding-top: 10px;
+  text-align: center;
+}
+#overlay {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #222;
+  font-size: 20px;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.7); z-index: 4000;
+}
+.loader-bars {
+  display: block;
+  margin-right: 15px;
+}
+.loader-bar1 {
+  background-color: #51a2bf;
+  width: 4px;
+  height: 22px;
+  display: inline-block;
+  border-radius: 2px;
+  animation: 1s cubic-bezier(0.2, 0.68, 0.18, 1.08) 0.1s infinite normal both running loading;
+}
+.loader-bar2 {
+  background-color: #51a2bf;
+  width: 4px;
+  height: 22px;
+  display: inline-block;
+  border-radius: 2px;
+  animation: 1s cubic-bezier(0.2, 0.68, 0.18, 1.08) 0.2s infinite normal both running loading;
+}
+.loader-bar3 {
+  background-color: #51a2bf;
+  width: 4px;
+  height: 22px;
+  display: inline-block;
+  border-radius: 2px;
+  animation: 1s cubic-bezier(0.2, 0.68, 0.18, 1.08) 0.3s infinite normal both running loading;
+}
+.loader-bar4 {
+  background-color: #51a2bf;
+  width: 4px;
+  height: 22px;
+  display: inline-block;
+  border-radius: 2px;
+  animation: 1s cubic-bezier(0.2, 0.68, 0.18, 1.08) 0.4s infinite normal both running loading;
+}
+.loader-bar5 {
+  background-color: #51a2bf;
+  width: 4px;
+  height: 22px;
+  display: inline-block;
+  border-radius: 2px;
+  animation: 1s cubic-bezier(0.2, 0.68, 0.18, 1.08) 0.5s infinite normal both running loading;
+}
+@keyframes loading {
+  0% { transform: scaley(1.0) }
+  50% { transform: scaley(0.4) }
+  100% { transform: scaley(1.0) }
+}
+kbd {
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 0.1em 0.5em;
+  margin: 0 0.2em;
+  box-shadow: 0 1px 0px rgba(0, 0, 0, 0.2), 0 0 0 2px #fff inset;
+  background-color: #f7f7f7;
+  font-size: 14px;
+  color: #666;
+}

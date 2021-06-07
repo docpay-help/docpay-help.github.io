@@ -1,0 +1,13 @@
+{
+  "menu": [
+    {
+      "title": "Dashboard",
+      "children": [
+        {
+          "page": "Conhecendo o Dashboard",
+          "url": "/pages/dashboard/inicial"
+        }
+      ]
+    }
+  ]
+}
