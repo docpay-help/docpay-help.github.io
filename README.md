@@ -7,7 +7,7 @@
 ## Execução (em desenvolvimento)
 
 ```
-docker run -p 8080:4000 -v $(pwd):/site bretfisher/jekyll-serve
+docker-compose up
 ```
 
 Em seguida acesse: http://localhost:8080
