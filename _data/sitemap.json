@@ -1,7 +1,16 @@
 {
   "menu": [
     {
-      "title": "Dashboard",
+      "title": "DocPay - Acesso",
+      "children": [
+        {
+          "page": "Acessando o DocPay",
+          "url": "/pages/dev/login"
+        }
+      ]
+    },
+    {
+      "title": "DocPay - Dashboard",
       "children": [
         {
           "page": "Conhecendo o Dashboard",
@@ -15,6 +24,10 @@
         {
           "page": "Configurações iniciais",
           "url": "/pages/dev/setup"
+        },
+        {
+          "page": "Modelo de exemplo de manual",
+          "url": "/pages/dev/exemplo"
         },
         {
           "page": "Exemplo: Criando um novo Plano de Tratamento",
