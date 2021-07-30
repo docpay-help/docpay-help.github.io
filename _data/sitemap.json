@@ -1,20 +1,32 @@
 {
   "menu": [
     {
-      "title": "DocPay - Acesso",
+      "title": "DocPay - WEB",
       "children": [
         {
-          "page": "Acessando o DocPay",
-          "url": "/pages/dev/login"
+          "page": "Geral - Acessando o DocPay",
+          "url": "/pages/web/login"
+        },
+        {
+          "page": "Geral - Esqueci a senha",
+          "url": "/pages/web/esqueci_senha"
+        },
+        {
+          "page": "Conhecendo o Dashboard",
+          "url": "/pages/web/dashboard"
         }
       ]
     },
     {
-      "title": "DocPay - Dashboard",
+      "title": "DocPay - SAPB1",
       "children": [
         {
-          "page": "Conhecendo o Dashboard",
-          "url": "/pages/dashboard/inicial"
+          "page": "SAPB1 - Instalando o addon",
+          "url": "/pages/sapb1/install_addon"
+        },
+        {
+          "page": "SAPB1 - Atualizando o módulo DocPay",
+          "url": "/pages/sapb1/upgrade_module"
         }
       ]
     },
