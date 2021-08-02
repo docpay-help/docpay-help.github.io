@@ -12,6 +12,18 @@
           "url": "/pages/web/esqueci_senha"
         },
         {
+          "page": "Geral - Criando perfil de usuário",
+          "url": "/pages/web/userprofile"
+        },
+        {
+          "page": "Geral - Criando usuário",
+          "url": "/pages/web/create_user"
+        },
+        {
+          "page": "Geral - Cadastro de Carteira",
+          "url": "/pages/web/create_wallet"
+        },
+        {
           "page": "Conhecendo o Dashboard",
           "url": "/pages/web/dashboard"
         }
@@ -27,27 +39,6 @@
         {
           "page": "SAPB1 - Atualizando o módulo DocPay",
           "url": "/pages/sapb1/upgrade_module"
-        }
-      ]
-    },
-    {
-      "title": "Desenvolvimento do manual",
-      "children": [
-        {
-          "page": "Configurações iniciais",
-          "url": "/pages/dev/setup"
-        },
-        {
-          "page": "Modelo de exemplo de manual",
-          "url": "/pages/dev/exemplo"
-        },
-        {
-          "page": "Exemplo: Criando um novo Plano de Tratamento",
-          "url": "/pages/dev/planning"
-        },
-        {
-          "page": "Exemplo: Encontrar um Plano de Tratamento",
-          "url": "/pages/dev/search"
         }
       ]
     }

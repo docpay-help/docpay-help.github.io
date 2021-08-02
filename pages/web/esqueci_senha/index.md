@@ -3,36 +3,32 @@ layout: page
 title: Esqueci a Senha
 ---
 
-
-#### Teste de manual de Esqueci a Senha
-
-Caso o usuário tenha esquecido a senha, siga o procedimento abaixo.
-
-**texto negrito**
-
-_texto itálico_
+#### Esqueci a Senha
 
 <br>
 
-***texto itálico e negrito***
-
-[Portal de Chamados](http://chamados.skilljugaad.com.br)
+No caso de não lembrar a senha, clique no botão **Entrar**, no canto superior direito. Na tela de login, clique em **Esqueci minha senha**.
 
 <div class="text-center" style="margin-bottom: 20px;"> 
-  <img alt="Entrar no sistema" src="\pages\dev\login\login.gif" style="width: 80%;">
+  <img alt="Entrar" src="\pages\web\esqueci_senha\GIF 1.gif" style="width: 80%;">
 </div>
 
-```Texto de citação```
+Em seguida na tela, digite o email cadastrado para o usuário.
 
-|Cabeçalho 1|||Cabeçalho 2|
-|----------:|||:---------:|
-|**Texto 1**    |||Texto 2|
+<div class="text-center" style="margin-bottom: 20px;"> 
+  <img alt="Entrar" src="\pages\web\esqueci_senha\GIF 2.gif" style="width: 80%;">
+</div>
 
+Clique no botão **Redefinir Senha**. Será apresentada uma mensagem do sistema, confirmando a operação.
 
-- Bullet 1
-- _Bullet 2_
-  - Sub-Bullet 1
+<div class="text-center" style="margin-bottom: 20px;"> 
+  <img alt="Entrar" src="\pages\web\esqueci_senha\GIF 3.gif" style="width: 80%;">
+</div>
 
-1. Lista numérica 1
-2. Lista Numérica 2
-  - Sub lista numérica
+Após isso, será enviado um email com uma nova senha de acesso.
+
+<div class="text-center" style="margin-bottom: 20px;"> 
+  <img alt="Entrar" src="\pages\web\esqueci_senha\Imagem 1.png" style="width: 80%;">
+</div>
+
+Por fim, acesse novamente o sistema e então configure uma nova senha.
