@@ -1,6 +1,6 @@
 FROM ruby:2.7-alpine as jekyll
 
-RUN apk add --no-cache build-base gcc bash cmake git curl nodejs nodejs-npm
+RUN apk add --no-cache build-base gcc bash cmake git curl nodejs npm
 
 RUN gem install bundler -v "~>1.0" && gem install bundler jekyll:3.9
 
