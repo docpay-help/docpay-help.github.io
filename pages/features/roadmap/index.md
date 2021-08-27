@@ -29,7 +29,7 @@ Abaixo encontra-se a lista de funcionalidades em roadmap do DocPay.
 |||DocPay||||||Configuração de logo do cliente no boleto||||||1400|||
 |||DocPay||||||Impressão dos documentos: agendamento de pagamento e retorno de baixa de contas a receber||||||1500|||
 |||DocPay||||||Configuração para postegar vencimento de boleto em feriados||||||1600|||
-|||DocPay||||||Layouts de 12 bancos||||||
+|||DocPay||||||Layouts de 12 bancos|||2000|||
 
 <br>
 <br>
