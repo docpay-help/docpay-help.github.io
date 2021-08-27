@@ -16,10 +16,7 @@ title: Lista de Funcionalidades
 |||DocPay             ||||||Cadastro de perfis de usuários|||
 |||DocPay             ||||||Configuração de carteiras|||
 |||DocPay             ||||||Cadastro de parceiros de negócios|||
-|||DocPay             ||||||Impressão do boleto|||
 |||DocPay             ||||||Envio do boleto por WhatsApp|||
-|||DocPay             ||||||Geração do boleto|||
-|||DocPay             ||||||Cancelamento de Boleto|||
 |||DocPay             ||||||Envio de e-mails do boleto em lote|||
 |||DocPay             ||||||Configurações de e-mails|||
 |||DocPay             ||||||Ordens de pagamentos no DocPay|||
