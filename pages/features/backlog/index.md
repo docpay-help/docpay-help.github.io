@@ -16,7 +16,6 @@ Abaixo encontra-se a lista de funcionalidades em backlog do DocPay.
 |||DocPay||||||Central de notificações|||
 |||DocPay||||||Senha no pdf do boleto tanto no envio de e-mail ou no link do pdf|||
 |||DocPay||||||Pagamento em moeda estrangeira|||
-|||SAP B1||||||Integração de taxas cambio com DocPay|||
 |||DocPay||||||Contas a Receber - Registro de boletos via API dos Bancos|||
 |||DocPay||||||Contas a Receber - Integração com PIX Recebimentos|||
 |||DocPay||||||Contas a Pagar - Recurso de aprovação dos pagamentos|||
@@ -32,7 +31,7 @@ Abaixo encontra-se a lista de funcionalidades em backlog do DocPay.
 |||DocPay||||||Cadastro de taxas de cambio atráves do Banco Central|||
 |||DocPay||||||Aplicativo do DocPay|||
 |||DocPay||||||Gerar vários boletos em um unico pdf|||
-|||DocPay||||||Baixa/Transferência de valores de boletos entre matriz e filial (Conta de Delegação)|||
+|||DocPay||||||Baixa/Transferência de valores de boletos entre matriz e filial (Conta Mútuo)|||
 
 <br>
 <br>
