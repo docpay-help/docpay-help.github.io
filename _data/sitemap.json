@@ -1,31 +1,28 @@
 {
   "menu": [
     {
+      "title":"DocPay - Funcionalidades",
+      "children":[
+        {
+          "page":"Funcionalidades",
+          "url":"/pages/features/features"
+        },
+        {
+          "page":"RoadMap",
+          "url":"/pages/features/roadmap"
+        },
+        {
+          "page":"BackLog",
+          "url":"/pages/features/backlog"
+        }
+      ]
+    },
+    {
       "title": "DocPay - WEB",
       "children": [
         {
-          "page": "Geral - Acessando o DocPay",
-          "url": "/pages/web/login"
-        },
-        {
-          "page": "Geral - Esqueci a senha",
-          "url": "/pages/web/esqueci_senha"
-        },
-        {
-          "page": "Geral - Criando perfil de usuário",
-          "url": "/pages/web/userprofile"
-        },
-        {
-          "page": "Geral - Criando usuário",
-          "url": "/pages/web/create_user"
-        },
-        {
-          "page": "Geral - Cadastro de Carteira",
-          "url": "/pages/web/create_wallet"
-        },
-        {
-          "page": "Conhecendo o Dashboard",
-          "url": "/pages/web/dashboard"
+          "page": "Em construção",
+          "url": "/pages/web/under_construction"
         }
       ]
     },
@@ -33,12 +30,8 @@
       "title": "DocPay - SAPB1",
       "children": [
         {
-          "page": "SAPB1 - Instalando o addon",
-          "url": "/pages/sapb1/install_addon"
-        },
-        {
-          "page": "SAPB1 - Atualizando o módulo DocPay",
-          "url": "/pages/sapb1/upgrade_module"
+          "page": "Em construção",
+          "url": "/pages/sapb1/under_construction"
         }
       ]
     }
