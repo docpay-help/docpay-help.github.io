@@ -20,7 +20,7 @@ Abaixo encontra-se a lista de funcionalidades em roadmap do DocPay.
 |||DocPay||||||Comandar instruções para o banco||||||500|||
 |||DocPay||||||Processo de aprovações para renegociação||||||700|||
 |||SAP B1||||||Serviço windows||||||900|||
-|||DocPay||||||Extrato Bancário - Conciliação com CR/CP/ERP||||||1000|||
+|||DocPay||||||Extrato Bancário - Conciliação automática com CR/CP/ERP||||||1000|||
 |||DocPay||||||Possibilidade de parametrizar lançamentos contabeis por categoria através do extrato bancário ||||||1100|||
 |||DocPay||||||Lancamento contábil de tarifas através do extrato bancario||||||1200|||
 |||DocPay||||||Importador saldos de contas a pagar em abertos (migração)||||||1300|||
@@ -28,6 +28,27 @@ Abaixo encontra-se a lista de funcionalidades em roadmap do DocPay.
 |||DocPay||||||Impressão dos documentos: agendamento de pagamento e retorno de baixa de contas a receber||||||1500|||
 |||DocPay||||||Configuração para postegar vencimento de boleto em feriados||||||1600|||
 |||DocPay||||||Layouts de 12 bancos||||||2000|||
+
+<br>
+
+**Bancos Suportados**
+
+|||Banco             ||||||Status|||
+|||:------------      ||||||:-------------|||
+|||399 - HSBC||||||RoadMap|||
+|||422 - Safra||||||RoadMap|||
+|||655 - Votorantim||||||RoadMap|||
+|||745 - Citbank||||||RoadMap|||
+|||246 - ABC Brasil||||||RoadMap|||
+|||004 - Banco do Nordeste||||||RoadMap|||
+|||752 - BNP Paribas||||||RoadMap|||
+|||224 - Banco Fibra||||||RoadMap|||
+|||077 - Banco Intermedium||||||RoadMap|||
+|||212 - Banco Original||||||RoadMap|||
+|||756 - Sicoob||||||RoadMap|||
+|||336 - C6 Bank||||||RoadMap|||
+|||208 - Banco BTG||||||RoadMap|||
+|||748 - Sicredi||||||RoadMap|||
 
 <br>
 <br>
