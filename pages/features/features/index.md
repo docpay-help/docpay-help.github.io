@@ -9,41 +9,65 @@ title: Lista de Funcionalidades
 
 **Funcionalidades**
 
-|||Módulo             ||||||Funcionalidade|||
-|||:------------      ||||||:-------------|||
-|||DocPay             ||||||Dashboards de contas a receber|||
-|||DocPay             ||||||Cadastro de usuários|||
-|||DocPay             ||||||Cadastro de perfis de usuários|||
-|||DocPay             ||||||Configuração de carteiras|||
-|||DocPay             ||||||Cadastro de parceiros de negócios|||
-|||DocPay             ||||||Envio do boleto por WhatsApp|||
-|||DocPay             ||||||Envio de e-mails do boleto em lote|||
-|||DocPay             ||||||Configurações de e-mails|||
-|||DocPay             ||||||Ordens de pagamentos no DocPay|||
-|||DocPay             ||||||Integração de PN com o DocPay|||
-|||DocPay             ||||||Integração de contatos com o DocPay|||
-|||DocPay             ||||||Contas a Receber - Gestão de Boletos|||
-|||DocPay             ||||||Contas a Receber - Geração de remessas (Arquivo Texto)|||
-|||DocPay             ||||||Contas a Receber - Processamento de retornos (Arquivo Texto)|||
-|||DocPay             ||||||Contas a Receber - Envio de boletos por e-mail|||
-|||DocPay             ||||||Contas a Receber - Envio de boletos via WhatsApp|||
-|||DocPay             ||||||Contas a Receber - API do Docpay para integrações|||
-|||DocPay             ||||||Contas a Pagar - Gestão de Ordem de Pagamento|||
-|||DocPay             ||||||Contas a Pagar - Geração de remessas (Arquivo Texto)|||
-|||DocPay             ||||||Contas a Pagar - Processamento de retornos (Arquivo Texto)|||
-|||DocPay             ||||||Contas a Pagar - Importação de arquivos DDA|||
-|||DocPay             ||||||Extrato Bancário - Importação de arquivos OFX e CNAB 240|||
-|||DocPay             ||||||Portal de acesso à boletos por clientes |||
-|||DocPay             ||||||Documentação de usuário do DocPay (Help Web)|||
-|||SAP B1             ||||||Integração de contas bancárias com o B1|||
-|||SAP B1             ||||||Integração do DocPay com T1 na emissão de NFe/NFSe (DANFE/XMLs)|||
-|||SAP B1             ||||||Envio de anexos do contas a receber do ERP para o DocPay|||
-|||SAP B1             ||||||Renegociação de parcelas de contas a receber/contas a pagar|||
-|||SAP B1             ||||||Prorrogação de vencimento de boleto|||
+- Dashboards com panorama financeiro
+- Controle de acesso de usuários
+    - Acesso temporário para consultores
+- Contas a Receber
+    - Gestão dos boletos
+        - Registro de boletos via arquivo bancário (CNAB)
+        - Processamento de arquivo de retorno (CNAB)
+        - Cancelamento e prorrogação de vencimento por instrução bancária
+        - Renegociação de títulos
+        - Envio de boleto por e-mail/whatsapp
+        - Portal de acesso para cliente final
+- Contas a Pagar
+    - Gestão de Ordem de pagamento
+        - Atendimento a todos os tipos de pagamentos disponíveis no layout bancário (rol de tipos de pagamento abaixo)
+        - Preparação de arquivo de remessa
+            - Previsão de saldo bancário futuro em tela
+        - Agendamento de pagamento via arquivo bancário (CNAB)
+        - Processamento de arquivo de retorno (CNAB)
+        - Cancelamento por instrução bancária
+    - Processamento de arquivo DDA
+        - Vínculo de cobrança DDA com Ordem de Pagamento
+- Extrato Bancário
+    - Processamento de extrato bancário em formato OFX ou CNAB
+- Integrações
+    - Integração com SAP Business One 
+    - Integração com add-on fiscal TripleOne
+        - Envio de boleto + Nota Fiscal (NFe ou NFSe)
+    - Integração nativa com VAN Nexxera (Automação do processo)
+    - Integração com API própria
 
 <br>
 
-**Bancos Suportados**
+**Tipos de Ordem de Pagamento Atendidos**
+
+|||Tipo de Ordem de Pagamento|||
+|||:------------:|||
+||| Transferência Conta Corrente |||
+||| Transferência Conta Poupança |||
+||| DOC |||
+||| TED |||
+||| PIX |||
+||| PIX QR Code|||
+||| Boletos de Cobrança |||
+||| Boletos de Concessionárias|||
+||| Tributos com código de barras|||
+||| DARF |||
+||| DARF Simples |||
+||| GARE-SP|||
+||| DARJ|||
+||| GPS|||
+||| FGTS |||
+||| IPVA|||
+||| DPVAT|||
+||| Licenciamento|||
+
+
+<br>
+
+**Bancos Atendidos**
 
 |||Banco             ||||||Status|||
 |||:------------      ||||||:-------------|||

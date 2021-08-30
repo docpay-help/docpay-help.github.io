@@ -13,6 +13,7 @@ Abaixo encontra-se a lista de funcionalidades em roadmap do DocPay.
 
 |||Módulo             ||||||Funcionalidade                    ||||||Prioridade    |||
 |||:------------      ||||||:-------------                    ||||||:---------    |||
+|||DocPay||||||Configuração de alertas de vencimento||||||90|||
 |||DocPay||||||Contas a receber: carteira com geração do nosso número pelo banco||||||100|||
 |||DocPay||||||Carteira descontada||||||200|||
 |||DocPay||||||Conta garantida||||||300|||

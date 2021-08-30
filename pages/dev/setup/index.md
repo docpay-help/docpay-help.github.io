@@ -32,7 +32,7 @@ docker-compose up
 
 #### Acesso local a documentação
 
-<p><a href="http://localhost:8080">Documentação (localhost:8000)</a></p>
+<p><a href="http://localhost:8000">Documentação (localhost:8000)</a></p>
 
 #### Ao concluir o seu trabalho faça "commit", como descrito abaixo, e a documentação estará disponível no ambiente de produção
 
