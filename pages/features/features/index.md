@@ -94,4 +94,4 @@ title: Lista de Funcionalidades
 <br>
 <br>
 <br>
-*\* Última atualização: 27/08/2021*
+*\* Última atualização: 30/08/2021*

@@ -23,8 +23,8 @@ Abaixo encontra-se a lista de funcionalidades em roadmap do DocPay.
 |||SAP B1||||||Serviço windows||||||900|||
 |||DocPay||||||Extrato Bancário - Conciliação automática com CR/CP/ERP||||||1000|||
 |||DocPay||||||Possibilidade de parametrizar lançamentos contabeis por categoria através do extrato bancário ||||||1100|||
-|||DocPay||||||Lancamento contábil de tarifas através do extrato bancario||||||1200|||
-|||DocPay||||||Importador saldos de contas a pagar em abertos (migração)||||||1300|||
+|||DocPay||||||Lançamento contábil de tarifas através do extrato bancario||||||1200|||
+|||DocPay||||||Importador saldos de contas a receber em abertos (migração)||||||1300|||
 |||DocPay||||||Configuração de logo do cliente no boleto||||||1400|||
 |||DocPay||||||Impressão dos documentos: agendamento de pagamento e retorno de baixa de contas a receber||||||1500|||
 |||DocPay||||||Configuração para postegar vencimento de boleto em feriados||||||1600|||
@@ -54,4 +54,4 @@ Abaixo encontra-se a lista de funcionalidades em roadmap do DocPay.
 <br>
 <br>
 <br>
-*\* Última atualização: 27/08/2021*
+*\* Última atualização: 08/09/2021*
