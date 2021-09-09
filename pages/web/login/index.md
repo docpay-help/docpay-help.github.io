@@ -7,10 +7,10 @@ title: Acessando o DocPay
 
 <br>
 
-Acessar o sistema [DocPay](https://docpay.cloud/) e clicar no botão **Entrar**.
+Acessar o sistema [DocPay](https://docpay.cloud/).
 
 <div class="text-center" style="margin-bottom: 20px;"> 
-  <img alt="Entrar no sistema" src="/pages/web/login/entrar.gif" style="width: 80%;">
+  <img alt="Entrar no sistema" src="/pages/web/login/entrar.JPG" style="width: 80%;">
 </div>
 
 Preencher os dados de _Usuario_ e _Senha_ recebidos por e-mail.

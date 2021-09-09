@@ -21,8 +21,12 @@
       "title": "DocPay - WEB",
       "children": [
         {
-          "page": "Em construção",
-          "url": "/pages/web/under_construction"
+          "page": "Geral: Acesso ao sistema",
+          "url": "/pages/web/login"
+        },
+        {
+          "page": "Geral: Esqueci a senha",
+          "url": "/pages/web/esqueci_senha"
         }
       ]
     },
