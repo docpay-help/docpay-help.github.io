@@ -29,16 +29,20 @@
           "url": "/pages/web/esqueci_senha"
         },
         {
-          "page": "Administração: Criando perfil de usuário",
+          "page": "Administração: Criar perfil de usuário",
           "url": "/pages/web/userprofile"
         },
         {
-          "page": "Administração: Criando usuários",
+          "page": "Administração: Criar usuários",
           "url": "/pages/web/create_user"
         },
         {
-          "page": "Cadastros: Cadastrando Contas bancárias",
+          "page": "Cadastros: Cadastrar Contas bancárias",
           "url": "/pages/web/create_bank_accounts"
+        },
+        {
+          "page": "Contas a Pagar: Criar ordem de pagamento manual",
+          "url": "/pages/web/create_payment_order"
         }
       ]
     },
