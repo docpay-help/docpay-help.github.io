@@ -14,6 +14,7 @@ Abaixo encontra-se a lista de funcionalidades em roadmap do DocPay.
 |||Módulo             ||||||Funcionalidade                    ||||||Prioridade    ||||||Liberação     |||
 |||:------------      ||||||:-------------                    ||||||:---------    ||||||:------------ |||
 |||DocPay||||||Configuração de alertas de vencimento||||||90||||||10/09/2021
+|||DocPay||||||Impressão dos documentos: Comprovante de Pagamento||||||91||||||10/09/2021
 |||DocPay||||||Contas a receber: carteira com geração do nosso número pelo banco||||||100||||||
 |||DocPay||||||Carteira descontada||||||200||||||
 |||DocPay||||||Conta garantida||||||300||||||

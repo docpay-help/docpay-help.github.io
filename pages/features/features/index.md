@@ -20,6 +20,11 @@ title: Lista de Funcionalidades
         - Renegociação de títulos
         - Envio de boleto por e-mail/whatsapp
         - Portal de acesso para cliente final
+    - Configuração de envio de e-mail
+        - E-mail de geração de boleto
+        - E-mail de alerta de vencimento
+        - E-mail de boletos vencidos
+        - E-mail de boleto pago
 - Contas a Pagar
     - Gestão de Ordem de pagamento
         - Atendimento a todos os tipos de pagamentos disponíveis no layout bancário (rol de tipos de pagamento abaixo)
@@ -94,4 +99,4 @@ title: Lista de Funcionalidades
 <br>
 <br>
 <br>
-*\* Última atualização: 30/08/2021*
+*\* Última atualização: 10/09/2021*

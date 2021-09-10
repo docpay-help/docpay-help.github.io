@@ -27,6 +27,10 @@
         {
           "page": "Geral: Esqueci a senha",
           "url": "/pages/web/esqueci_senha"
+        },
+        {
+          "page": "Geral: Criação de perfil de usuário",
+          "url": "/pages/web/userprofile"
         }
       ]
     },
