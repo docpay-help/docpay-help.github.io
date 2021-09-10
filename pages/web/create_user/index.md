@@ -7,7 +7,7 @@ title: Criando usuário
 
 <br>
 
-Para realizar a criação do Usuário, clique no menu **Administração** e e seguida no sub-menu **Usuários**..
+Para realizar a criação do Usuário, clique no menu **Administração** e e seguida no sub-menu **Usuários**.
 
 <div class="text-center" style="margin-bottom: 20px;"> 
   <img alt="Menu Usuario" src="/pages/web/create_user/GIF 1.gif" style="width: 80%;">

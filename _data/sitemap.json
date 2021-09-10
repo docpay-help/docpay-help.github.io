@@ -29,12 +29,16 @@
           "url": "/pages/web/esqueci_senha"
         },
         {
-          "page": "Administração: Criação de perfil de usuário",
+          "page": "Administração: Criando perfil de usuário",
           "url": "/pages/web/userprofile"
         },
         {
-          "page": "Administração: Criação de usuário",
+          "page": "Administração: Criando usuários",
           "url": "/pages/web/create_user"
+        },
+        {
+          "page": "Cadastros: Cadastrando Contas bancárias",
+          "url": "/pages/web/create_bank_accounts"
         }
       ]
     },
