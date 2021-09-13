@@ -41,6 +41,10 @@
           "url": "/pages/web/create_bank_accounts"
         },
         {
+          "page": "Contas a Pagar: Gestão de Ordem de Pagamento",
+          "url": "/pages/web/payment_orders"
+        },
+        {
           "page": "Contas a Pagar: Criar ordem de pagamento manual",
           "url": "/pages/web/create_payment_order"
         }
