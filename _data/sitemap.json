@@ -45,6 +45,10 @@
           "url": "/pages/web/payment_orders"
         },
         {
+          "page": "Contas a Pagar: Status de ordem de pagamento",
+          "url": "/pages/web/payment_order_status"
+        },
+        {
           "page": "Contas a Pagar: Criar ordem de pagamento manual",
           "url": "/pages/web/create_payment_order"
         }
