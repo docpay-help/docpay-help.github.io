@@ -60,6 +60,10 @@
         {
           "page": "Baixando o add-on Adept",
           "url": "/pages/sapb1/download_addon"
+        },
+        {
+          "page": "Instalando o add-on Adept",
+          "url": "/pages/sapb1/install_addon"
         }
       ]
     }
