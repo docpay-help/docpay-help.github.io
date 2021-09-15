@@ -68,6 +68,10 @@
         {
           "page": "Atribuindo o add-on Adept em uma empresa",
           "url": "/pages/sapb1/company_assignment"
+        },
+        {
+          "page": "Atualizando o módulo DocPay no add-on Adept",
+          "url": "/pages/sapb1/update_module"
         }
       ]
     }
