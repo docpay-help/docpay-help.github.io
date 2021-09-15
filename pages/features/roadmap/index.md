@@ -49,7 +49,6 @@ Abaixo encontra-se a lista de funcionalidades em roadmap do DocPay.
 |||212 - Banco Original||||||RoadMap|||
 |||756 - Sicoob||||||RoadMap|||
 |||336 - C6 Bank||||||RoadMap|||
-|||208 - Banco BTG||||||RoadMap|||
 |||748 - Sicredi||||||RoadMap|||
 
 <br>
