@@ -17,8 +17,10 @@ Efetue o login no Extension Manager com o usuário B1SiteUser e a senha cadastra
   <img alt="Abrir Extension Manager" src="/pages/sapb1/install_addon/GIF 2.gif" style="width: 80%;">
 </div>
 
-Clique no botão Import, na tela que se abre clique no botão Browse e selecione o pacote do addon. Clique no botão Upload e aguarde o carregamento do addon. Ao finalizar, clique no botão Next até finalizar.
+Clique no botão Import, na tela que se abre clique no botão Browse e selecione o pacote do addon. Clique no botão Upload e aguarde o carregamento do addon. Ao concluir o carregamento, clique no botão Next até finalizar.
 
 <div class="text-center" style="margin-bottom: 20px;"> 
   <img alt="Instalar Adept" src="/pages/sapb1/install_addon/GIF 3.gif" style="width: 80%;">
 </div>
+
+Após instalação, deve-se [atribuir o addon às empresas](/pages/sapb1/company_assignment) desejadas.
