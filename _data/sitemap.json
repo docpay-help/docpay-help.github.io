@@ -58,20 +58,24 @@
       "title": "DocPay - SAPB1",
       "children": [
         {
-          "page": "Baixando o add-on Adept",
+          "page": "Instalação: Baixando o add-on Adept",
           "url": "/pages/sapb1/download_addon"
         },
         {
-          "page": "Instalando o add-on Adept",
+          "page": "Instalação: Instalando o add-on Adept",
           "url": "/pages/sapb1/install_addon"
         },
         {
-          "page": "Atribuindo o add-on Adept em uma empresa",
+          "page": "Instalação: Atribuindo o add-on Adept em uma empresa",
           "url": "/pages/sapb1/company_assignment"
         },
         {
-          "page": "Atualizando o módulo DocPay no add-on Adept",
+          "page": "Instalação: Atualizando o módulo DocPay no add-on Adept",
           "url": "/pages/sapb1/update_module"
+        },
+        {
+          "page": "Configuração: Configuração do módulo DocPay",
+          "url": "/pages/sapb1/docpay_settings"
         }
       ]
     }

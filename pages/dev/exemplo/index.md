@@ -3,8 +3,9 @@ layout: page
 title: Logando no DocPay
 ---
 
-## Tutorial de documentação
-<br>
+## Tutorial de documentação  
+  
+<br> 
 
 #### Markdowns importantes
 
@@ -21,9 +22,8 @@ title: Logando no DocPay
 |1. texto| || lista numérica|
 |\|Teste\|| || tabela|
 |\|:---:\|| || centralizar na tabela|
-|\\  ||| caractere de escape de markdown|
-
-<br>
+|\\  ||| caractere de escape de markdown|  
+  
 
 #### Exemplo de criação de manual
 
@@ -33,3 +33,17 @@ title: Logando no DocPay
 4. Incluir a opção de menu referenciando a nova pasta
 5. Escrever o manual no arquivo _index.md_
    1. Todas as imagens/gifs utilizados no manual devem estar na nova pasta 
+
+
+` teste de citação `
+
+> teste de citação  
+> teste de citação 2  
+> teste de citação 3  
+
+Teste com citação  
+    Teste com [link](/pages/sapb1/docpay_settings)
+
+Outro teste:
+> Citação com [link](/pages/sapb1/docpay_settings)  
+> Citação com **negrito**
