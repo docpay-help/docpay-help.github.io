@@ -51,6 +51,10 @@
         {
           "page": "Contas a Pagar: Criar ordem de pagamento manual",
           "url": "/pages/web/create_payment_order"
+        },
+        {
+          "page": "Contas a Pagar: Atualizar ordem de pagamento em Pré-cadastro",
+          "url": "/pages/web/update_payment_order"
         }
       ]
     },
