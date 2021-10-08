@@ -20,6 +20,8 @@ title: Lista de Funcionalidades
         - Renegociação de títulos
         - Envio de boleto por e-mail/whatsapp
         - Portal de acesso para cliente final
+        - Boleto com logo da empresa
+        - Boleto com PIX QR Code sem registro
     - Configuração de envio de e-mail
         - E-mail de geração de boleto
         - E-mail de alerta de vencimento
@@ -33,12 +35,16 @@ title: Lista de Funcionalidades
         - Agendamento de pagamento via arquivo bancário (CNAB)
         - Processamento de arquivo de retorno (CNAB)
         - Cancelamento por instrução bancária
+        - Impressão de comprovante de pagamento
     - Processamento de arquivo DDA
         - Vínculo de cobrança DDA com Ordem de Pagamento
 - Extrato Bancário
     - Processamento de extrato bancário em formato OFX ou CNAB
+    - Conciliação automática dos lançamentos mediante data e valor
 - Integrações
-    - Integração com SAP Business One 
+    - Integração com SAP Business One
+        - Integração via add-on
+        - Integração via serviço windows
     - Integração com add-on fiscal TripleOne
         - Envio de boleto + Nota Fiscal (NFe ou NFSe)
     - Integração nativa com VAN Nexxera (Automação do processo)
@@ -98,4 +104,4 @@ title: Lista de Funcionalidades
 <br>
 <br>
 <br>
-*\* Última atualização: 10/09/2021*
+*\* Última atualização: 07/10/2021*
