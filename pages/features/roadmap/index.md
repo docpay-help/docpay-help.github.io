@@ -22,6 +22,9 @@ Abaixo encontra-se a lista de funcionalidades em roadmap do DocPay.
 |||DocPay||||||Configuração para postegar vencimento de boleto em feriados||||||160||||||07/10/2021
 |||DocPay||||||Configuração para habilitar PIX QRCode simples no boleto||||||170||||||07/10/2021
 |||DocPay||||||Integração com VANs externas||||||180||||||07/10/2021
+|||DocPay||||||Impressão dos documentos: Borderô de pagamento - Listagem de Ordens de pagamento com as ocorrências nos arquivos||||||181||||||19/10/2021
+|||DocPay||||||Impressão dos documentos: Borderô de boletos - Listagens de Boletos com as ocorrências nos arquivos||||||182||||||19/10/2021
+|||DocPay||||||Senha no pdf do boleto tanto no envio de e-mail ou no link do pdf||||||183||||||19/10/2021
 |||DocPay||||||Carteira descontada||||||200||||||
 |||DocPay||||||Conta garantida||||||300||||||
 |||DocPay||||||Aplicação de desconto/juros financeiro antes do boleto||||||400||||||
@@ -29,8 +32,6 @@ Abaixo encontra-se a lista de funcionalidades em roadmap do DocPay.
 |||DocPay||||||Ferramenta para importar dados de boletos em aberto no banco||||||510||||||
 |||DocPay||||||Extrato Bancário - Baixa de fatura a partir do extrato||||||1100||||||
 |||DocPay||||||Extrato Bancário - Classificação/Geração de lançamentos contábeis por categorias||||||1200||||||
-|||DocPay||||||Impressão dos documentos: Borderô de pagamento - Listagem de Ordens de pagamento com as ocorrências nos arquivos||||||1500||||||
-|||DocPay||||||Impressão dos documentos: Borderô de boletos - Listagens de Boletos com as ocorrências nos arquivos||||||1550||||||
 |||DocPay||||||Layouts de 12 bancos||||||2000||||||
 
 <br>
@@ -56,4 +57,4 @@ Abaixo encontra-se a lista de funcionalidades em roadmap do DocPay.
 <br>
 <br>
 <br>
-*\* Última atualização: 07/10/2021*
+*\* Última atualização: 19/10/2021*

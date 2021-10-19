@@ -14,7 +14,6 @@ Abaixo encontra-se a lista de funcionalidades em backlog do DocPay.
 |||DocPay||||||Contas a Receber: registro de débito automático|||
 |||DocPay||||||Contas a Pagar: agrupamento de ordens|||
 |||DocPay||||||Central de notificações|||
-|||DocPay||||||Senha no pdf do boleto tanto no envio de e-mail ou no link do pdf|||
 |||DocPay||||||Contas a Receber - Processo de factoring|||
 |||DocPay||||||Pagamento em moeda estrangeira|||
 |||DocPay||||||Contas a Receber - Registro de boletos via API dos Bancos|||
@@ -36,4 +35,4 @@ Abaixo encontra-se a lista de funcionalidades em backlog do DocPay.
 <br>
 <br>
 <br>
-*\* Última atualização: 07/10/2021*
+*\* Última atualização: 19/10/2021*

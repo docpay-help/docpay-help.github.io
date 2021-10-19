@@ -22,6 +22,7 @@ title: Lista de Funcionalidades
         - Portal de acesso para cliente final
         - Boleto com logo da empresa
         - Boleto com PIX QR Code sem registro
+        - Boleto com senha
     - Configuração de envio de e-mail
         - E-mail de geração de boleto
         - E-mail de alerta de vencimento
@@ -36,6 +37,7 @@ title: Lista de Funcionalidades
         - Processamento de arquivo de retorno (CNAB)
         - Cancelamento por instrução bancária
         - Impressão de comprovante de pagamento
+        - Impressão de borderô de pagamento
     - Processamento de arquivo DDA
         - Vínculo de cobrança DDA com Ordem de Pagamento
 - Extrato Bancário
@@ -104,4 +106,4 @@ title: Lista de Funcionalidades
 <br>
 <br>
 <br>
-*\* Última atualização: 07/10/2021*
+*\* Última atualização: 19/10/2021*
