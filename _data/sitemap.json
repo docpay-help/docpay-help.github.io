@@ -14,6 +14,10 @@
         {
           "page":"BackLog",
           "url":"/pages/features/backlog"
+        },
+        {
+          "page":"Downloads",
+          "url":"/pages/features/downloads"
         }
       ]
     },
@@ -41,12 +45,12 @@
           "url": "/pages/web/create_bank_accounts"
         },
         {
-          "page": "Contas a Pagar: Gestão de Ordem de Pagamento",
-          "url": "/pages/web/payment_orders"
-        },
-        {
           "page": "Contas a Pagar: Status de ordem de pagamento",
           "url": "/pages/web/payment_order_status"
+        },
+        {
+          "page": "Contas a Pagar: Gestão de Ordem de Pagamento",
+          "url": "/pages/web/payment_orders"
         },
         {
           "page": "Contas a Pagar: Criar ordem de pagamento manual",
