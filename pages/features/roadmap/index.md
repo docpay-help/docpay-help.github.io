@@ -30,6 +30,7 @@ Abaixo encontra-se a lista de funcionalidades em roadmap do DocPay.
 |||DocPay||||||Aplicação de desconto/juros financeiro antes do boleto||||||400||||||
 |||DocPay||||||Comandar instruções para o banco||||||500||||||
 |||DocPay||||||Ferramenta para importar dados de boletos em aberto no banco||||||510||||||
+|||DocPay||||||Contas a Pagar: agrupamento de ordens||||||600||||||
 |||DocPay||||||Extrato Bancário - Baixa de fatura a partir do extrato||||||1100||||||
 |||DocPay||||||Extrato Bancário - Classificação/Geração de lançamentos contábeis por categorias||||||1200||||||
 |||DocPay||||||Layouts de 12 bancos||||||2000||||||
