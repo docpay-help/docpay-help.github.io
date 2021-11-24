@@ -106,4 +106,4 @@ title: Lista de Funcionalidades
 <br>
 <br>
 <br>
-*\* Última atualização: 19/10/2021*
+*\* Última atualização: 23/11/2021*
