@@ -89,10 +89,10 @@ title: Lista de Funcionalidades
 |||033 - Santander||||||Entregue|||
 |||001 - Banco do Brasil||||||Entregue|||
 |||104 - Caixa Economica Federal||||||Entregue|||
+|||422 - Safra||||||Entregue|||
 |||399 - HSBC||||||RoadMap|||
-|||422 - Safra||||||RoadMap|||
 |||655 - Votorantim||||||RoadMap|||
-|||745 - Citbank||||||RoadMap|||
+|||745 - Citibank||||||RoadMap|||
 |||246 - ABC Brasil||||||RoadMap|||
 |||004 - Banco do Nordeste||||||RoadMap|||
 |||752 - BNP Paribas||||||RoadMap|||
