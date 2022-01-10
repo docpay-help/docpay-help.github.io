@@ -41,20 +41,16 @@ Abaixo encontra-se a lista de funcionalidades em roadmap do DocPay.
 
 |||Banco             ||||||Status|||
 |||:------------      ||||||:-------------|||
-|||748 - Sicredi||||||RoadMap|||
-|||756 - Sicoob||||||RoadMap|||
-|||745 - Citibank||||||RoadMap|||
 |||336 - C6 Bank||||||BackLog|||
 |||399 - HSBC||||||BackLog|||
 |||655 - Votorantim||||||BackLog|||
 |||246 - ABC Brasil||||||BackLog|||
 |||004 - Banco do Nordeste||||||BackLog|||
 |||224 - Banco Fibra||||||BackLog|||
-|||077 - Banco Intermedium||||||BackLog|||
 |||212 - Banco Original||||||BackLog|||
 |||752 - BNP Paribas||||||BackLog|||
 
 <br>
 <br>
 <br>
-*\* Última atualização: 23/11/2021*
+*\* Última atualização: 10/01/2022*
