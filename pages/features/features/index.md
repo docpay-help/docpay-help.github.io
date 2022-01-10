@@ -15,6 +15,7 @@ title: Lista de Funcionalidades
 - Contas a Receber
     - Gestão dos boletos
         - Registro de boletos via arquivo bancário (CNAB)
+        - Registro de boletos via API
         - Processamento de arquivo de retorno (CNAB)
         - Cancelamento e prorrogação de vencimento por instrução bancária
         - Renegociação de títulos
@@ -23,6 +24,8 @@ title: Lista de Funcionalidades
         - Boleto com logo da empresa
         - Boleto com PIX QR Code sem registro
         - Boleto com senha
+        - Impressão de borderô de recebimento
+        - Exportação de borderô de recebimento
     - Configuração de envio de e-mail
         - E-mail de geração de boleto
         - E-mail de alerta de vencimento
@@ -38,6 +41,7 @@ title: Lista de Funcionalidades
         - Cancelamento por instrução bancária
         - Impressão de comprovante de pagamento
         - Impressão de borderô de pagamento
+        - Exportação de borderô de pagamento
     - Processamento de arquivo DDA
         - Vínculo de cobrança DDA com Ordem de Pagamento
 - Extrato Bancário
@@ -51,6 +55,7 @@ title: Lista de Funcionalidades
         - Envio de boleto + Nota Fiscal (NFe ou NFSe)
     - Integração nativa com VAN Nexxera (Automação do processo)
     - Integração com API própria
+    - Integração via WebHook
 
 <br>
 
@@ -90,20 +95,28 @@ title: Lista de Funcionalidades
 |||001 - Banco do Brasil||||||Entregue|||
 |||104 - Caixa Economica Federal||||||Entregue|||
 |||422 - Safra||||||Entregue|||
+|||745 - Citibank||||||Entregue|||
+|||748 - Sicredi||||||Entregue|||
+|||756 - Sicoob||||||Entregue|||
+|||077 - Banco Inter||||||Entregue|||
 |||399 - HSBC||||||RoadMap|||
 |||655 - Votorantim||||||RoadMap|||
-|||745 - Citibank||||||RoadMap|||
 |||246 - ABC Brasil||||||RoadMap|||
 |||004 - Banco do Nordeste||||||RoadMap|||
 |||752 - BNP Paribas||||||RoadMap|||
 |||224 - Banco Fibra||||||RoadMap|||
-|||077 - Banco Intermedium||||||RoadMap|||
 |||212 - Banco Original||||||RoadMap|||
-|||756 - Sicoob||||||RoadMap|||
 |||336 - C6 Bank||||||RoadMap|||
-|||748 - Sicredi||||||RoadMap|||
+
+
+**Bancos Atendidos via API**
+
+|||Banco             ||||||Status|||
+|||:------------      ||||||:-------------|||
+|||422 - Safra||||||Entregue|||
+|||237 - Bradesco||||||Entregue|||
 
 <br>
 <br>
 <br>
-*\* Última atualização: 23/11/2021*
+*\* Última atualização: 10/01/2022*
