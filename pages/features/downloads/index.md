@@ -21,6 +21,6 @@ Abaixo encontra-se os links de downloads.
 
 ###### DOWNLOADS DO DOCPAY
 
-[DocPay - Serviço do Windows - Versão 1.0.39 - SAP 9.x](https://skill-addons.s3.sa-east-1.amazonaws.com/docpay/sap-9.x_docpay-winservice-x64-v1.0.39.zip)
+[DocPay - Serviço do Windows - Versão 1.0.45 - SAP 9.x](https://skill-addons.s3.sa-east-1.amazonaws.com/docpay/sap-9.x_docpay-winservice-x64-v1.0.45.zip)
 
-[DocPay - Serviço do Windows - Versão 1.0.39 - SAP 10.x](https://skill-addons.s3.sa-east-1.amazonaws.com/docpay/sap-10.x_docpay-winservice-x64-v1.0.39.zip)
+[DocPay - Serviço do Windows - Versão 1.0.45 - SAP 10.x](https://skill-addons.s3.sa-east-1.amazonaws.com/docpay/sap-10.x_docpay-winservice-x64-v1.0.45.zip)
