@@ -127,4 +127,4 @@ title: Lista de Funcionalidades
 <br>
 <br>
 <br>
-*\* Última atualização: 14/03/2022*
+*\* Última atualização: 29/03/2022*
