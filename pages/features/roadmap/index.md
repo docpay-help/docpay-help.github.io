@@ -9,7 +9,7 @@ title: Roadmap
 
 Abaixo encontra-se a lista de funcionalidades em roadmap do DocPay.
 
-**Roadmap previsto até Dezembro/2021**
+**Roadmap previsto até Junho/2022**
 
 |||Módulo             ||||||Funcionalidade                    ||||||Prioridade    ||||||Liberação     |||
 |||:------------      ||||||:-------------                    ||||||:---------    ||||||:------------ |||
@@ -26,14 +26,14 @@ Abaixo encontra-se a lista de funcionalidades em roadmap do DocPay.
 |||DocPay||||||Impressão dos documentos: Borderô de boletos - Listagens de Boletos com as ocorrências nos arquivos||||||182||||||19/10/2021
 |||DocPay||||||Senha no pdf do boleto tanto no envio de e-mail ou no link do pdf||||||183||||||19/10/2021
 |||DocPay||||||Comandar instruções para o banco||||||190||||||22/11/2021
+|||DocPay||||||Ferramenta para importar dados de boletos em aberto no banco||||||191|||||| 15/01/2022
+|||DocPay||||||Aplicação de desconto/juros financeiro antes do boleto||||||192|||||| 21/02/2022
+|||DocPay||||||Contas a Pagar: agrupamento de ordens||||||193||||||21/02/2022
 |||DocPay||||||Carteira descontada||||||200||||||
 |||DocPay||||||Conta garantida||||||300||||||
-|||DocPay||||||Aplicação de desconto/juros financeiro antes do boleto||||||400||||||
-|||DocPay||||||Ferramenta para importar dados de boletos em aberto no banco||||||510||||||
-|||DocPay||||||Contas a Pagar: agrupamento de ordens||||||600||||||
 |||DocPay||||||Extrato Bancário - Baixa de fatura a partir do extrato||||||1100||||||
 |||DocPay||||||Extrato Bancário - Classificação/Geração de lançamentos contábeis por categorias||||||1200||||||
-|||DocPay||||||Layouts de 12 bancos||||||2000||||||
+|||DocPay||||||Layouts de 6 bancos||||||2000||||||
 
 <br>
 
@@ -53,4 +53,4 @@ Abaixo encontra-se a lista de funcionalidades em roadmap do DocPay.
 <br>
 <br>
 <br>
-*\* Última atualização: 10/01/2022*
+*\* Última atualização: 14/03/2022*

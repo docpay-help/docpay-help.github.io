@@ -17,7 +17,7 @@ title: Lista de Funcionalidades
         - Registro de boletos via arquivo bancário (CNAB)
         - Registro de boletos via API
         - Processamento de arquivo de retorno (CNAB)
-        - Cancelamento e prorrogação de vencimento por instrução bancária
+        - Cancelamento, protesto e prorrogação de vencimento por instrução bancária
         - Renegociação de títulos
         - Envio de boleto por e-mail/whatsapp
         - Portal de acesso para cliente final
@@ -26,11 +26,14 @@ title: Lista de Funcionalidades
         - Boleto com senha
         - Impressão de borderô de recebimento
         - Exportação de borderô de recebimento
+        - Importador de boletos em aberto e registrados 
     - Configuração de envio de e-mail
         - E-mail de geração de boleto
         - E-mail de alerta de vencimento
         - E-mail de boletos vencidos
         - E-mail de boleto pago
+    - Transferências
+        - Baixa por recebimento em transferências bancárias
 - Contas a Pagar
     - Gestão de Ordem de pagamento
         - Atendimento a todos os tipos de pagamentos disponíveis no layout bancário (rol de tipos de pagamento abaixo)
@@ -42,6 +45,8 @@ title: Lista de Funcionalidades
         - Impressão de comprovante de pagamento
         - Impressão de borderô de pagamento
         - Exportação de borderô de pagamento
+        - Agrupamento de ordens de pagamentos
+        - Aprovação de ordens de pagamentos
     - Processamento de arquivo DDA
         - Vínculo de cobrança DDA com Ordem de Pagamento
 - Extrato Bancário
@@ -53,6 +58,7 @@ title: Lista de Funcionalidades
         - Integração via serviço windows
     - Integração com add-on fiscal TripleOne
         - Envio de boleto + Nota Fiscal (NFe ou NFSe)
+        - GNRE
     - Integração nativa com VAN Nexxera (Automação do processo)
     - Integração com API própria
     - Integração via WebHook
@@ -108,8 +114,10 @@ title: Lista de Funcionalidades
 |||212 - Banco Original||||||RoadMap|||
 |||336 - C6 Bank||||||RoadMap|||
 
+<br>
 
 **Bancos Atendidos via API**
+<br>
 
 |||Banco             ||||||Status|||
 |||:------------      ||||||:-------------|||
@@ -119,4 +127,4 @@ title: Lista de Funcionalidades
 <br>
 <br>
 <br>
-*\* Última atualização: 10/01/2022*
+*\* Última atualização: 14/03/2022*

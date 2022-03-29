@@ -12,13 +12,10 @@ Abaixo encontra-se a lista de funcionalidades em backlog do DocPay.
 |||Módulo             ||||||Funcionalidade                    |||
 |||:------------      ||||||:-------------                    |||
 |||DocPay||||||Contas a Receber: registro de débito automático|||
-|||DocPay||||||Contas a Pagar: agrupamento de ordens|||
 |||DocPay||||||Central de notificações|||
 |||DocPay||||||Contas a Receber - Processo de factoring|||
 |||DocPay||||||Pagamento em moeda estrangeira|||
-|||DocPay||||||Contas a Receber - Registro de boletos via API dos Bancos|||
 |||DocPay||||||Contas a Receber - Integração com PIX Recebimentos|||
-|||DocPay||||||Contas a Pagar - Recurso de aprovação dos pagamentos|||
 |||DocPay||||||Leitura de arquivos de fornecedores para criação de ordem de pagamento (artefatos)|||
 |||DocPay||||||Antecipação de recebiveis|||
 |||DocPay||||||Integração com WhatsApp Business|||
@@ -35,4 +32,4 @@ Abaixo encontra-se a lista de funcionalidades em backlog do DocPay.
 <br>
 <br>
 <br>
-*\* Última atualização: 19/10/2021*
+*\* Última atualização: 14/03/2022*
