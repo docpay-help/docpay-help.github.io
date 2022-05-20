@@ -13,9 +13,9 @@ Abaixo encontra-se os links de downloads.
 
 ###### DOWNLOADS DO ADEPT
 
-[Adept Versão 1.0.15 - SAP 9.x](https://skill-addons.s3.sa-east-1.amazonaws.com/adept/skill-adept-v1.0.15+(SAP+B1+9.x).zip)
+[Adept Versão 1.0.16 - SAP 9.x](https://skill-addons.s3.sa-east-1.amazonaws.com/adept/skill-adept-v1.0.16+(SAP+B1+9.x).zip)
 
-[Adept Versão 1.0.15 - SAP 10.x](https://skill-addons.s3.sa-east-1.amazonaws.com/adept/skill-adept-v1.0.15+(SAP+B1+10.x).zip)
+[Adept Versão 1.0.16 - SAP 10.x](https://skill-addons.s3.sa-east-1.amazonaws.com/adept/skill-adept-v1.0.16+(SAP+B1+10.x).zip)
  
 <br>
 
