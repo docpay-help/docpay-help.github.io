@@ -71,6 +71,7 @@ title: Lista de Funcionalidades
 |||:------------:|||
 ||| Transferência Conta Corrente |||
 ||| Transferência Conta Poupança |||
+||| Transferência Ordem de Pagamento |||
 ||| DOC |||
 ||| TED |||
 ||| PIX |||
@@ -113,6 +114,7 @@ title: Lista de Funcionalidades
 |||224 - Banco Fibra||||||RoadMap|||
 |||212 - Banco Original||||||RoadMap|||
 |||336 - C6 Bank||||||RoadMap|||
+|||403 - Banco Cora||||||RoadMap|||
 
 <br>
 
@@ -127,4 +129,4 @@ title: Lista de Funcionalidades
 <br>
 <br>
 <br>
-*\* Última atualização: 29/03/2022*
+*\* Última atualização: 20/06/2022*
