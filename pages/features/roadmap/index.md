@@ -9,7 +9,7 @@ title: Roadmap
 
 Abaixo encontra-se a lista de funcionalidades em roadmap do DocPay.
 
-**Roadmap previsto até Outubro/2022**
+**Roadmap previsto até Fevereiro/2023**
 
 |||Módulo             ||||||Funcionalidade                    ||||||Prioridade    ||||||Liberação     |||
 |||:------------      ||||||:-------------                    ||||||:---------    ||||||:------------ |||
@@ -30,10 +30,14 @@ Abaixo encontra-se a lista de funcionalidades em roadmap do DocPay.
 |||DocPay||||||Aplicação de desconto/juros financeiro antes do boleto||||||192|||||| 21/02/2022
 |||DocPay||||||Contas a Pagar: agrupamento de ordens||||||193||||||21/02/2022
 |||DocPay||||||Conta garantida||||||300|||||| 30/05/2022
+|||Kyara||||||Cartão de Crédito - Processamento de arquivos de adquirentes|||||| 01/07/2022
+|||Kyara||||||Cartão de Crédito - Conciliação de Vendas/Liquidação|||||| 01/07/2022
+|||Kyara||||||Cartão de Crédito - Contabilizações|||||| 01/07/2022
+|||DocPay||||||Gerar vários boletos em um unico pdf|||||| 21/08/2022
+|||DocPay||||||Extrato Bancário - Baixa de fatura a partir do extrato||||||1100||||||21/08/2022
+|||DocPay||||||Extrato Bancário - Classificação/Geração de lançamentos contábeis por categorias||||||1200||||||21/08/2022
+|||DocPay||||||Layouts de 6 bancos||||||2000||||||14/11/2022
 |||DocPay||||||Carteira descontada||||||200||||||
-|||DocPay||||||Extrato Bancário - Baixa de fatura a partir do extrato||||||1100||||||
-|||DocPay||||||Extrato Bancário - Classificação/Geração de lançamentos contábeis por categorias||||||1200||||||
-|||DocPay||||||Layouts de 6 bancos||||||2000||||||
 
 <br>
 
@@ -53,4 +57,4 @@ Abaixo encontra-se a lista de funcionalidades em roadmap do DocPay.
 <br>
 <br>
 <br>
-*\* Última atualização: 20/06/2022*
+*\* Última atualização: 14/11/2022*

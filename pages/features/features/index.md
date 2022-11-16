@@ -32,6 +32,7 @@ title: Lista de Funcionalidades
         - E-mail de alerta de vencimento
         - E-mail de boletos vencidos
         - E-mail de boleto pago
+        - E-mail de alteração de vencimento
     - Transferências
         - Baixa por recebimento em transferências bancárias
 - Contas a Pagar
@@ -49,6 +50,8 @@ title: Lista de Funcionalidades
         - Aprovação de ordens de pagamentos
     - Processamento de arquivo DDA
         - Vínculo de cobrança DDA com Ordem de Pagamento
+    - Configuração de envio de e-mail
+        - E-mail de comprovante de pagamento
 - Extrato Bancário
     - Processamento de extrato bancário em formato OFX ou CNAB
     - Conciliação automática dos lançamentos mediante data e valor
@@ -106,15 +109,18 @@ title: Lista de Funcionalidades
 |||748 - Sicredi||||||Entregue|||
 |||756 - Sicoob||||||Entregue|||
 |||077 - Banco Inter||||||Entregue|||
+|||707 - Banco Daycoval||||||Entregue|||
+|||403 - Banco Cora - API de Recebimentos||||||Entregue|||
+|||752 - BNP Paribas||||||Entregue|||
+|||643 - Pine||||||Entregue|||
+|||246 - ABC Brasil|||||Entregue|||
+|||218 - BS2|||||Entregue|||
 |||399 - HSBC||||||RoadMap|||
 |||655 - Votorantim||||||RoadMap|||
-|||246 - ABC Brasil||||||RoadMap|||
 |||004 - Banco do Nordeste||||||RoadMap|||
-|||752 - BNP Paribas||||||RoadMap|||
 |||224 - Banco Fibra||||||RoadMap|||
 |||212 - Banco Original||||||RoadMap|||
 |||336 - C6 Bank||||||RoadMap|||
-|||403 - Banco Cora||||||RoadMap|||
 
 <br>
 
@@ -129,4 +135,4 @@ title: Lista de Funcionalidades
 <br>
 <br>
 <br>
-*\* Última atualização: 20/06/2022*
+*\* Última atualização: 14/11/2022*

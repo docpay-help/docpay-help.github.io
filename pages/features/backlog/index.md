@@ -19,17 +19,13 @@ Abaixo encontra-se a lista de funcionalidades em backlog do DocPay.
 |||DocPay||||||Leitura de arquivos de fornecedores para criação de ordem de pagamento (artefatos)|||
 |||DocPay||||||Antecipação de recebiveis|||
 |||DocPay||||||Integração com WhatsApp Business|||
-|||DocPay||||||Cartão de Crédito - Processamento de arquivos de adquirentes|||
-|||DocPay||||||Cartão de Crédito - Conciliação de Vendas/Liquidação|||
-|||DocPay||||||Cartão de Crédito - Contabilizações|||
-|||DocPay||||||Serasa - Integração de consulta de score|||
+|||DocPay||||||Bureau de cédito - Integração de consulta de score|||
 |||DocPay||||||Geração de boleto conjugado com notas modelo 21 e 22 (telecom)|||
 |||DocPay||||||Cadastro de taxas de cambio atráves do Banco Central|||
 |||DocPay||||||Aplicativo do DocPay|||
-|||DocPay||||||Gerar vários boletos em um unico pdf|||
 |||DocPay||||||Baixa/Transferência de valores de boletos entre matriz e filial (Conta Mútuo)|||
 
 <br>
 <br>
 <br>
-*\* Última atualização: 14/03/2022*
+*\* Última atualização: 14/11/2022*
