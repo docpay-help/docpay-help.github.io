@@ -113,8 +113,8 @@ title: Lista de Funcionalidades
 |||403 - Banco Cora - API de Recebimentos||||||Entregue|||
 |||752 - BNP Paribas||||||Entregue|||
 |||643 - Pine||||||Entregue|||
-|||246 - ABC Brasil|||||Entregue|||
-|||218 - BS2|||||Entregue|||
+|||246 - ABC Brasil||||||Entregue|||
+|||218 - BS2||||||Entregue|||
 |||399 - HSBC||||||RoadMap|||
 |||655 - Votorantim||||||RoadMap|||
 |||004 - Banco do Nordeste||||||RoadMap|||
