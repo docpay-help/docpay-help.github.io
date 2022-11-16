@@ -110,7 +110,7 @@ title: Lista de Funcionalidades
 |||756 - Sicoob||||||Entregue|||
 |||077 - Banco Inter||||||Entregue|||
 |||707 - Banco Daycoval||||||Entregue|||
-|||403 - Banco Cora - API de Recebimentos||||||Entregue|||
+|||208 - Banco BTG Pactual||||||Entregue|||
 |||752 - BNP Paribas||||||Entregue|||
 |||643 - Pine||||||Entregue|||
 |||246 - ABC Brasil||||||Entregue|||
@@ -131,6 +131,7 @@ title: Lista de Funcionalidades
 |||:------------      ||||||:-------------|||
 |||422 - Safra||||||Entregue|||
 |||237 - Bradesco||||||Entregue|||
+|||403 - Banco Cora||||||Entregue|||
 
 <br>
 <br>
